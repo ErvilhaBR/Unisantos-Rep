@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1749314589 source:/media/ervilhagamer/MIGUEL/Unisantos/FSO/Projeto Final/Jogo Projeto Final/Jogo P&C/Banco.c
+
+1749319168 source:/media/ervilhagamer/MIGUEL/Unisantos/FSO/Projeto Final/Jogo Projeto Final/Jogo P&C/main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"Back.h"
+
+1749342640 /media/ervilhagamer/MIGUEL/Unisantos/FSO/Projeto Final/Jogo Projeto Final/Jogo P&C/Back.h
+
+1749401934 source:/media/ervilhagamer/MIGUEL/Unisantos/FSO/Projeto Final/Jogo Projeto Final/Jogo P&C/Back.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Back.h"
+

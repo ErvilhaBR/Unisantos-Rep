@@ -1,0 +1,7 @@
+Entrada:Você está na entrada de uma mansão, a porta esta ao norte.:nada:1:-1:-1:1:nada:0
+Hall:Um grande hall com uma chave no chão, uma porta à esquerda(Oeste), uma a direita(Leste) e uma sala a sua frente.:chave da cozinha:6:0:2:4:nada:0
+Cozinha:Uma cozinha com uma porta trancada.:nada:-1:-1:-1:1:chave da cozinha:0
+Armazém:Você entrou no armazém com suprimentos.(Oeste, Cozinha):lanterna:-1:-1:-1:2:nada:0
+Corredor Escuro:Você não consegue ver nada...:nada:-1:-1:1:-1:lanterna:0
+Depósito:Um depósito cheio de utensílios.:chave do cofre:-1:4:-1:-1:nada:0
+Sala do Cofre:A sua frente um cofre com tesouros é guardado.:nada:-1:1:-1:-1:chave do cofre:0
