@@ -6,3 +6,4 @@ Pedro Henrique Valença D'Almeida;
 Arthur Santana Santos
 
 Este projeto foi feito em Python e usa planilhas Excel para os textos do jogo.
+Execute o jogo abrindo o Main.py.
