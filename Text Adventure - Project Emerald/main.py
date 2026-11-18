@@ -31,5 +31,9 @@ if __name__ == '__main__':
     jogo.ler_eventos(1)
     
     while True:
-        jogo.jogar()
+        try:
+            jogo.jogar()
+        except:
+            raise Exception as e
+            print(e)
     
